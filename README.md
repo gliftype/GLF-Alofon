@@ -28,6 +28,8 @@ fontmake -g Sources/GLF_Alofon.glyphs -o otf --output-dir fonts/otf/
 ```
 The compiled files will appear inside the newly created `fonts/` directory.
 
+![Alt Text](GLF-Alofon.png)
+
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
